@@ -1,5 +1,5 @@
 # Repositório de Teste Automatizado com Playwright - qrPet
-Este repositório contém um exemplo de automação de testes utilizando o Playwright, demonstrando a funcionalidade de geração de código. Ele foi criado como parte de um artigo publicado no blog [4future](https://4future.com.br), onde exploramos as capacidades do Playwright e como ele pode ser utilizado para acelerar o desenvolvimento de testes end-to-end.
+Este repositório contém um exemplo de automação de testes utilizando o Playwright, demonstrando a funcionalidade de geração de código. Ele foi criado como parte de um artigo publicado no blog [4future](https://4future.com.br/index.php/2024/08/21/o-gerador-de-codigos-do-playwright/), onde exploramos as capacidades do Playwright e como ele pode ser utilizado para acelerar o desenvolvimento de testes end-to-end.
 
 ## Sobre o qrPet
 O [qrPet](https://qrpet.vercel.app/) é uma aplicação desenvolvida como um projeto pessoal, onde usuários podem se cadastrar e criar perfis para seus animais de estimação. A plataforma gera um QR code para cada pet, que direciona para uma página com as informações do animal e os dados de contato do dono. Esse QR code é útil em caso de perda do pet, permitindo que quem o encontrar possa facilmente contatar o dono.
@@ -35,4 +35,4 @@ Execute o teste:
 npx playwright test
 ```
 ## Artigo no 4future
-Este repositório é parte de um artigo no blog [4future](https://4future.com.br), onde exploramos a funcionalidade de geração de código do Playwright em detalhes. Confira o artigo para entender melhor como esse teste foi criado e como o Playwright pode ajudar a simplificar o processo de automação.
+Este repositório é parte de um artigo no blog [4future](https://4future.com.br/index.php/2024/08/21/o-gerador-de-codigos-do-playwright/), onde exploramos a funcionalidade de geração de código do Playwright em detalhes. Confira o artigo para entender melhor como esse teste foi criado e como o Playwright pode ajudar a simplificar o processo de automação.
